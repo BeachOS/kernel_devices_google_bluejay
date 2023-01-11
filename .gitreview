@@ -1,0 +1,5 @@
+[gerrit]
+host=review.beachos.org
+port=29418
+project=BeachOS/kernel_devices_google_bluejay
+defaultbranch=android12L
